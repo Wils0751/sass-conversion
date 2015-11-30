@@ -13,7 +13,11 @@ html {
   font-family: "Josefin Sans", "Trebuchet MS", Helvetica, sans-serif;
   line-height: 1.6; }
 
-h1, h2, h3, .content2 h3, h4 {
+h1,
+h2,
+h3,
+.content2 h3,
+h4 {
   font-family: Cardo, ‘Palatino Linotype’, ‘Book Antiqua’, Palatino, serif; }
 
 ul {
@@ -233,7 +237,8 @@ footer h4[lang=en], footer h4[lang=ar], footer h4[lang=ru] {
     .col-4:first-child {
       margin-left: 0; }
 
-  section.content2 h4, section.content2 li {
+  section.content2 h4,
+  section.content2 li {
     font-size: 1.414rem; }
 
   footer .fa-circle {
@@ -295,7 +300,8 @@ footer h4[lang=en], footer h4[lang=ar], footer h4[lang=ru] {
     width: 900px;
     margin: 0 auto; }
 
-  section.focal h2, section.focal p.author {
+  section.focal h2,
+  section.focal p.author {
     width: 600px;
     margin: 0 auto; }
 
@@ -319,7 +325,8 @@ footer h4[lang=en], footer h4[lang=ar], footer h4[lang=ru] {
     section.content1 h3 .fa-2x {
       font-size: 1.999rem;
       padding-right: 1rem; }
-  section.content2 h4, section.content2 li {
+  section.content2 h4,
+  section.content2 li {
     font-size: 1.414rem; }
   section.content2 p {
     font-size: 1rem;
@@ -410,7 +417,8 @@ footer h4[lang=en], footer h4[lang=ar], footer h4[lang=ru] {
       font-size: 2.827rem;
       padding-right: 1rem;
       vertical-align: middle; }
-  section.content2 h4, section.content2 li {
+  section.content2 h4,
+  section.content2 li {
     font-size: 1.999rem; }
   section.content2 p {
     font-size: 1.414rem;
